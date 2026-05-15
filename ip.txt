@@ -1,0 +1,50 @@
+IP                   : 152.56.6.11
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Aurangabad, India, Asia
+GeoLocation(lat, lon): 19.8761653, 75.3433139
+Currency             : Indian Rupee
+
+IP                   : 152.56.6.11
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Aurangabad, India, Asia
+GeoLocation(lat, lon): 19.8761653, 75.3433139
+Currency             : Indian Rupee
+
+IP                   : 152.56.6.11
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Aurangabad, India, Asia
+GeoLocation(lat, lon): 19.8761653, 75.3433139
+Currency             : Indian Rupee
+
+IP                   : 152.56.6.11
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Aurangabad, India, Asia
+GeoLocation(lat, lon): 19.8761653, 75.3433139
+Currency             : Indian Rupee
+
+IP                   : 152.56.6.11
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Aurangabad, India, Asia
+GeoLocation(lat, lon): 19.8761653, 75.3433139
+Currency             : Indian Rupee
+
